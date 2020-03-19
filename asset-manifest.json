@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-hooks-starter-project/static/css/main.b1e8f748.chunk.css",
+    "main.js": "/react-hooks-starter-project/static/js/main.4689a779.chunk.js",
+    "main.js.map": "/react-hooks-starter-project/static/js/main.4689a779.chunk.js.map",
+    "runtime-main.js": "/react-hooks-starter-project/static/js/runtime-main.2e4aab7a.js",
+    "runtime-main.js.map": "/react-hooks-starter-project/static/js/runtime-main.2e4aab7a.js.map",
+    "static/js/2.9ce9ae2b.chunk.js": "/react-hooks-starter-project/static/js/2.9ce9ae2b.chunk.js",
+    "static/js/2.9ce9ae2b.chunk.js.map": "/react-hooks-starter-project/static/js/2.9ce9ae2b.chunk.js.map",
+    "index.html": "/react-hooks-starter-project/index.html",
+    "precache-manifest.753a2bb96bc86c1493b926d274a09088.js": "/react-hooks-starter-project/precache-manifest.753a2bb96bc86c1493b926d274a09088.js",
+    "service-worker.js": "/react-hooks-starter-project/service-worker.js",
+    "static/css/main.b1e8f748.chunk.css.map": "/react-hooks-starter-project/static/css/main.b1e8f748.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e4aab7a.js",
+    "static/js/2.9ce9ae2b.chunk.js",
+    "static/css/main.b1e8f748.chunk.css",
+    "static/js/main.4689a779.chunk.js"
+  ]
+}
